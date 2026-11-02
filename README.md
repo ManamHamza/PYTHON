@@ -1,6 +1,6 @@
 # Simple Calculator - My First Python Project
  
-This is my **first Python project** — a simple command-line calculator! 🎉
+This is my **first Python project** a simple command-line calculator!
 
 ## Features
 
